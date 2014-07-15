@@ -4,7 +4,7 @@ Hope-X-Surveillance
 Notes and Resources from my talk at Hope X: "Surveillance, Sousveillance, and Anti-Surveillance: Artistic Responses to Watching"
 
 #Presentation
-[http://prezi.com/g4afsuzjqgz4/surveillance-sousveillance-and-anti-surveillance-artistic/]
+http://prezi.com/g4afsuzjqgz4/surveillance-sousveillance-and-anti-surveillance-artistic/
 
 ##Biblography
 Bentham, Jeremy The Panopticon Writings. Ed. Miran Bozovic (London: Verso, 1995). p. 29-95  
