@@ -24,5 +24,15 @@ Monahan, Torin. "Counter-surveillance as Political Intervention?." SOCIAL SEMIOT
 
 "The Surveillance Camera Players: completely distrustful of all government." Not Bored. http://www.notbored.org/the-scp.html (accessed May 11, 2013).
 
+##Artists or Work that are cool but didn't make it in
+
+http://gizmodo.com/5031411/security-camera-defeated-by-balloon
+
+[Zach Blas](http://www.vice.com/read/weaponizing-our-faces-an-interview-with-zach-blas-715)
+
+[Encrypted Mixtape for the NSA](http://www.animalnewyork.com/2014/engineer-makes-encrypted-mixtape-nsa-cant-listen/)
+
+
+
 
 
